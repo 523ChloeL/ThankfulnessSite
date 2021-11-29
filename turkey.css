@@ -489,17 +489,17 @@
  .wrapper h1 {
 	 color: white;
 	 text-align: center;
-	 font-size: 40px;
+	 font-size: 50px;
 	 font-family: "Helvetica Neue";
 }
  .wrapper h1 .happy {
-	 font-size: 30px;
-}
- .wrapper h1 .t {
 	 font-size: 40px;
 }
+ .wrapper h1 .t {
+	 font-size: 50px;
+}
  .wrapper h1 .thanksgiving {
-	 font-size: 30px;
+	 font-size: 40px;
 }
  .wrapper .body {
 	 width: 130px;
